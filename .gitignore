@@ -1,6 +1,7 @@
 .idea/
+test/
+__pycache__/
 
-*test*
 *.xml
 
 .DS_Store
